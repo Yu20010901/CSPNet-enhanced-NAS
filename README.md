@@ -1,2 +1,2 @@
-# CSPNet-enhanced-NAS
+# CSPNet-enhanced
 updated by Louis
